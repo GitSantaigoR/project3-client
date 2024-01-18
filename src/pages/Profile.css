@@ -1,0 +1,72 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #007bff;
+    margin-top: 90px;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
+  .profile-info {
+    margin-top: 20px;
+  }
+  
+  .profile-info div {
+    margin-bottom: 10px;
+  }
+  
+  .books-section {
+    margin-top: 20px;
+  }
+  
+  .books-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .books-list li {
+    margin-bottom: 10px;
+  }
+  
+  /* Additional Styles for Consistency */
+  
+  h3 {
+    color: #007bff;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  .loading-message {
+    text-align: center;
+    margin-top: 20px;
+    color: #888;
+  }
